@@ -1,0 +1,69 @@
+body {
+    font-family: sans-serif;
+    background-color: #ede7c9;
+    font-family: 'Cutive Mono', monospace;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+td {
+    height: 20px;
+    width: 20px;
+    border: 1px solid black;
+}
+
+.alive {
+    background-color: #ff503d;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: #0d354f;
+    border: 5px solid black;
+}
+
+.controls {
+    text-align: center;
+}
+
+.btn {
+    margin: 5px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+.primary {
+    background: #53afd1;
+}
+
+.default {
+    color: black;
+}
+
+
+.success {
+    background: #66c97d;
+}
+
+.warning {
+    background: #fc872d;
+}
+
+.extra {
+    background: #8239c6;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 60px;
+}
